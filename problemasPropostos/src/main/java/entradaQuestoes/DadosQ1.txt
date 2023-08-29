@@ -1,0 +1,7 @@
+Usando o paradigma orientado a objeto fazer um programa para ler os valores da largura e altura de um retângulo. EM seguida, mostrar na tela o valor de sua área, perímetro e diagoanal.
+Clase rectangle
+- Width
+- Height
++ Area()
++ Perimeter()
++ Diagonal()
